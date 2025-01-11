@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <!--
 **Kureshik/Kureshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--![Kureshik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kureshik&show_icons=true&theme=aura)-->
 ![Top Languages (compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kureshik&layout=compact&theme=aura)
 
-##### Profile visitors
+#### Profile views
 ![Kureshik](https://count.getloli.com/@Kureshik?name=Kureshik&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
